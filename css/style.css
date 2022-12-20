@@ -34,13 +34,13 @@ main section .container .contentright::before {
 }
 main section .container .contentleft {
   left: 0;
-  background: url(./img/1.jpg);
+  background: url(../img/1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 main section .container .contentright {
   right: 0;
-  background: url(./img/ps5.png);
+  background: url(../img/ps5.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
